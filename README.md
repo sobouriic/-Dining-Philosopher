@@ -368,19 +368,12 @@ While this is a school project, suggestions for improvements are welcome:
 
 **Sobouric** - *42 School Student*
 - GitHub: [@sobouriic](https://github.com/sobouriic)
-- 42 Login: `sobouric`
 - Project completed: July 2023
 
 ## 📜 License
 
 This project is part of the 42 School curriculum. Feel free to study the code for educational purposes.
 
-## 🙏 Acknowledgments
-
-- **42 School** for the project specification
-- **Edsger Dijkstra** for the original dining philosophers problem
-- **POSIX** committee for the threading standards
-- **The C programming community** for excellent documentation
 
 ---
 
